@@ -2,3 +2,4 @@ This is the current code from a Roguelike game I'm developing, which will be rel
 
 
 
+<img src="Nagrywanie ekranu 2025-07-30 122615.mp4" alt="Opis wideo">
